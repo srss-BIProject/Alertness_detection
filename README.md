@@ -20,9 +20,11 @@
    
    ## **DATASET**
    //link
+   
    SNAPSHOP OF A PART OF DATASET
+   
    Training a custom dlib shape predictor
-...
+
 <images>
   <image file='lfpw/trainset/image_0457.png'>
     <box top='78' left='74' width='138' height='140'>
@@ -96,6 +98,6 @@
       <part name='67' x='160' y='192'/>
     </box>
   </image>
-...
+
 ----------------------------------------------
    
