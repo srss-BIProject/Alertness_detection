@@ -18,12 +18,16 @@
    When Eyes Aspect Ratio is greater than Eyes Threshold Value, Notification for ‘Sleeping’ would be displayed. 
    When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
-   //eyes vala part from research paper-image and formula we are using
+   //gaur--eyes vala part from research paper-image and formula we are using
    
    ## **DATASET**
    //link
    
    SNAPSHOP OF A PART OF DATASET
+   
+   
+   
+   // gaur ye snapshot ki pic dal pae to daal dio..m copy paste krke krri thi bt ni hora...
    
    Training a custom dlib shape predictor
 <<images>
