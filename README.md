@@ -1,16 +1,16 @@
 # Alertness_detection
 
-    **Motivation**
-
-In India, there are a lot of accidents taking place every day due to mishaps. As the population grows the no. of cars and accidents is directly proportional. This example program shows how to find frontal human faces in an image and estimate their pose. The pose takes the form of 68 landmarks. These are points on the face such as the corners of the mouth, along the eyebrows, on the eyes, and so forth.
+    Motivation
+    
+In India, there are a lot of accidents taking place every day due to mishaps.As the no. of cars and accidents are increased as the population grows. This example program shows how to find frontal human faces in an image and estimate their pose. The pose takes the form of 68 landmarks. These are points on the face such as the corners of the mouth, along the eyebrows, on the eyes, and so forth.
 
     Idea
 
 We are going to implement a special method and use it to determine how long a given person’s eyes have been closed. If their eyes have been closed for a certain amount of time, we’ll assume that they are starting to doze off and play an alarm to wake them up and grab their attention.
 
-Apart from this, this will also test for the same condition of yawning. In this, if the person yawns it would prompt another alert alarm for this to make him/her caution. We have also executed another extra feature by providing the driver’s parents or closed ones specifying the detailed accurate response and expressions of the driver. We have integrated the scan code with the notifications.
+Apart from this, this will also test for the same condition of yawning. In this, if the person yawns it would prompt another alert alarm for this to make him/her caution. We will also execute another extra feature by providing the driver’s parents or closed ones specifying the detailed accurate response and expressions of the driver. 
 
-The secured scan code which had been provided to the closed ones can easily track the facial emotions and expressions of the driver seating in the car and let’s suppose when the driver’s response is Yawning a continuous vibration notification will be sent to their closed ones cell phone stating a message “Yawning while driving” so that they can take the required measures like calling or texting him/her to prevent causing accidents.
+This is only provided to the closed ones so that they can easily track the facial emotions and expressions of the driver seating in the car and let’s suppose when the driver’s response is Yawning a continuous vibration notification will be sent to their closed ones cell phone stating a message “Yawning while driving” so that they can take the required measures like calling or texting him/her to prevent causing accidents.
 
     Working
 
