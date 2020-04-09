@@ -11,7 +11,7 @@
    Program shows how to find frontal human faces in an image and estimate their pose. 
    The pose takes the form of 68 landmarks.These are points on the face such as the corners of the mouth, on the eyes, and so forth.
    
-   //image of face
+   [Landmarks on human face](shape.PNG)
    
    When Either no face is detected or the calculated aspect ratio is less than or equal to the threshold value, Nothing would      be displayed.
    When Mouth Aspect Ratio is greater than Mouth Threshold Value, Notification for ‘Yawning’ would be displayed.
