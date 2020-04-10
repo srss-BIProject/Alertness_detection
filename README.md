@@ -11,7 +11,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
    ## **IDEA**
    A system that can automatically detect driver drowsiness in a real time video stream and then play an alarm if the driver      appears to be drowsy.
    
-   ### Dependencies
+   ### **DEPENDENCIES**
 
 1) import cv2
 2) import imutils
@@ -44,7 +44,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
   
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/dataset1.PNG">
   
-  ## REFERENCES
+  ##  **REFERENCES**
   - [Shape Predictor 68 Face Landmarks](http://dlib.net/face_landmark_detection.py.html)
   
   
