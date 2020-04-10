@@ -20,7 +20,7 @@
    When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
    #### **RELATIONSHIP**
-   
+   You can compute "Eye Aspect Ratio"(EAR) using the formula-
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/Ear.PNG">
   
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/eye1.jpg">
