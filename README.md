@@ -18,7 +18,8 @@
    When Eyes Aspect Ratio is greater than Eyes Threshold Value, Notification for ‘Sleeping’ would be displayed. 
    When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
-   //gaur--eyes vala part from research paper-image and formula we are using
+   #### Relationship
+   
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/Ear.PNG">
   
    
