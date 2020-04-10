@@ -31,7 +31,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
    When Eyes Aspect Ratio is greater than Eyes Threshold Value, Notification for ‘Sleeping’ would be displayed. 
    When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
-   #### **RELATIONSHIP**
+   ## **RELATIONSHIP**
    You can compute "Eye Aspect Ratio"(EAR) using the formula-
    
    
