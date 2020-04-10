@@ -29,6 +29,10 @@
    ## **DATASET**
   
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/dataset1.PNG">
+  
+  ## REFERENCES
+  - [Shape Predictor 68 Face Landmarks](http://dlib.net/face_landmark_detection.py.html)
+  -[Real-Time Eye Blink Detection using Facial Landmarks](https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
    
  
    
