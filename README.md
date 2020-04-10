@@ -4,14 +4,14 @@
    In India, there are a lot of accidents taking place every day due to mishaps. The no. of cars and accidents are increased as    the population grows. Most of the accidents take place due to people  feeling sleepy,high speed,drunk and drive.
    So,we are going to implement an accident prevention system which deals with the problem of accidents happening due to people    getting dozed off or feeling sleepy. 
    
-   ## **APPLCATIONS**
+   ## **APPLICATIONS**
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents
 
    
    ## **IDEA**
    A system that can automatically detect driver drowsiness in a real time video stream and then play an alarm if the driver      appears to be drowsy.
    
-   ### **DEPENDENCIES**
+   ## **DEPENDENCIES**
 
 1) import cv2
 2) import imutils
