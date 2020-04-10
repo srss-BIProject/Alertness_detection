@@ -10,14 +10,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
    
    ## **IDEA**
    A system that can automatically detect driver drowsiness in a real time video stream and then play an alarm if the driver      appears to be drowsy.
-   
-   ## **DEPENDENCIES**
-
-1) import cv2
-2) import imutils
-3) import dlib
-4) import scipy
-
+  
    
    ## **WORKING**
    Program shows how to find frontal human faces in an image and estimate their pose. 
