@@ -26,10 +26,10 @@ This can be used by riders who tend to drive for a longer period of time that ma
    ## **RELATIONSHIP**
    You can compute "Eye Aspect Ratio"(EAR) using the formula-
    
+   <img src="images/EAR-final.png">
    
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Ear.png">
-  
-  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Eye.jpg">
+  You can compute "Mouth Aspect Ratio"(MAR) using the formula-
   <img src="images/MAR-final.jpg">
   ## **Algorithm Models**
   Description of algorithms.
