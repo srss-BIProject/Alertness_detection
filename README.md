@@ -67,10 +67,12 @@ Support  vector  machines  are  supervised  learning  models  with  associated  
 The following table shows maximum accuracy values corresponding to each algorithm-
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ALGORITHMS           | MAXIMUM ACCURACY |
+| ---------------------| ---------------- |
+| K-nearest neighbours |0.939392          |          
+|Naive Bayes           |0.802693          |
+|Random Forest         |0.85124           |
+|Support Vector Machine|0.380883           |
    
    ## **DATASET**
    We have taken the human face images from the various source available on the internet to extract the features.  We have calculated the eye-aspect-ratio and mouth-aspect-ratio ofthose images by using the formula presented in the research paper and code in python([AspectRatio and label Prediction](src/landmarks_detection.py)).
