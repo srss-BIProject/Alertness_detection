@@ -62,6 +62,7 @@ Support  vector  machines  are  supervised  learning  models  with  associated  
 <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/linear_svm.png">
    
    ## **DATASET**
+   We have taken the human face images from the various source available on the internet to extract the features.  We have calculated the eye-aspect-ratio and mouth-aspect-ratio ofthose images by using the formula presented in the research paper and code in python([AspectRatio and label Prediction](src/landmarks_detection.py)).  The dataset contains 248 facial images and their aspect ratios with the labels.
    
    [Facial Landmarks](https://github.com/srss-BIProject/Alertness_detection/blob/master/facial_image_ar.csv)
   
