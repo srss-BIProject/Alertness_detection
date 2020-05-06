@@ -31,6 +31,9 @@ This can be used by riders who tend to drive for a longer period of time that ma
   
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Eye.jpg">
   
+  ## **Algorithm Models**
+  
+  
    
    ## **DATASET**
    
