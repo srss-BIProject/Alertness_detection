@@ -17,7 +17,6 @@ This can be used by riders who tend to drive for a longer period of time that ma
    The pose takes the form of 68 landmarks.These are points on the face such as the corners of the mouth, on the eyes, and so forth.
    
    
-   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/shape.PNG">
    
    When Either no face is detected or the calculated aspect ratio is less than or equal to the threshold value, Nothing would be       displayed.
    When Mouth Aspect Ratio is greater than Mouth Threshold Value, Notification for ‘Yawning’ would be displayed.
