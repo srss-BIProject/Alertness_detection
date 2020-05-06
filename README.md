@@ -19,9 +19,12 @@ This can be used by riders who tend to drive for a longer period of time that ma
    
    
   - When Either no face is detected or the calculated aspect ratio is less than or equal to the threshold value, Nothing would be       displayed.
-   When Mouth Aspect Ratio is greater than Mouth Threshold Value, Notification for ‘Yawning’ would be displayed.
-   When Eyes Aspect Ratio is greater than Eyes Threshold Value, Notification for ‘Sleeping’ would be displayed. 
-   When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
+  
+  - When Mouth Aspect Ratio is greater than Mouth Threshold Value, Notification for ‘Yawning’ would be displayed.
+  
+  - When Eyes Aspect Ratio is greater than Eyes Threshold Value, Notification for ‘Sleeping’ would be displayed. 
+  
+  - When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
    ## **RELATIONSHIP**
    You can compute "Eye Aspect Ratio"(EAR) using the formula given in research paper specified in references-
