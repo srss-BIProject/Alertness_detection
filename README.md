@@ -67,7 +67,7 @@ Support  vector  machines  are  supervised  learning  models  with  associated  
 The following table shows maximum accuracy values corresponding to each algorithm-
 
 
-| ALGORITHMS           | MAXIMUM ACCURACY |
+|ALGORITHMS           | MAXIMUM ACCURACY |
 | ---------------------| ---------------- |
 | K-nearest neighbours |0.939392          |          
 |Naive Bayes           |0.802693          |
