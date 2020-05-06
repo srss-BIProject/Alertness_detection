@@ -28,9 +28,9 @@ This can be used by riders who tend to drive for a longer period of time that ma
    You can compute "Eye Aspect Ratio"(EAR) using the formula-
    
    
-  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/ear1.png">
+  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Ear.png">
   
-  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/eye1.jpg">
+  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Eye.jpg">
   
    
    ## **DATASET**
