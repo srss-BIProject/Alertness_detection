@@ -27,14 +27,15 @@ This can be used by riders who tend to drive for a longer period of time that ma
   - When Eyes Aspect Ratio and Mouth Aspect Ratio are greater than Eyes Threshold Value and Mouth Threshold Value respectively,    Notifications for ‘Sleeping and Yawning’ would be displayed.
    
    ## **RELATIONSHIP**
-   You can compute "Eye Aspect Ratio"(EAR) using the formula given in research paper specified in references-
+   You can compute **"Eye Aspect Ratio"(EAR)** using the formula given in research paper specified in references-
    
    <img src="images/EAR.jpeg">
-  You can compute "Mouth Aspect Ratio"(MAR) using the formula-
-  <img src="images/MAR-final.jpg">
-  ## **Algorithm Models**
+   
+  You can compute **"Mouth Aspect Ratio"(MAR)** using the formula-
   
- Description-
+  <img src="images/MAR-final.jpg">
+  
+  ## **Algorithm Models**
  
  **K-nearest neighbors**
  
@@ -70,11 +71,11 @@ Support  vector  machines  are  supervised  learning  models  with  associated  
   - [Shape Predictor 68 Face Landmarks](http://dlib.net/face_landmark_detection.py.html)
   
   
-  - [Real-Time Eye Blink Detection using Facial Landmarks](https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
+  - [Facial Landmarks with dlib,opencv and python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
   
    - [Drowsiness-detection](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
    
-   - [Research Paper](https://github.com/srss-BIProject/Alertness_detection/blob/master/Referenced%20Research%20Paper.pdf)
+   - [Research Paper](https://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf)
    
  
    
