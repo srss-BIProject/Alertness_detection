@@ -32,12 +32,13 @@ This can be used by riders who tend to drive for a longer period of time that ma
   <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Eye.jpg">
   
   ## **Algorithm Models**
+  Description of algorithms.
   
   <img src=https://github.com/srss-BIProject/Alertness_detection/blob/master/images/knn.PNG">
    
-  <img src=https://github.com/srss-BIProject/Alertness_detection/blob/master/images/naive bayes.PNG">
+  <img src=https://github.com/srss-BIProject/Alertness_detection/blob/master/images/naive_bayes.PNG">
    
-  <img src=https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Random Forest.PNG">
+  <img src=https://github.com/srss-BIProject/Alertness_detection/blob/master/images/Random_forest.jpeg">
    
    ## **DATASET**
    
