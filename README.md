@@ -35,7 +35,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
    
    ## **DATASET**
   
-  <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/dataset1.PNG">
+ 
   
   ##  **REFERENCES**
   - [Shape Predictor 68 Face Landmarks](http://dlib.net/face_landmark_detection.py.html)
