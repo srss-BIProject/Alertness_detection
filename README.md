@@ -46,6 +46,8 @@ This can be used by riders who tend to drive for a longer period of time that ma
   
    - [Drowsiness-detection](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
    
+   - [Research Paper](https://github.com/srss-BIProject/Alertness_detection/blob/master/Referenced%20Research%20Paper.pdf)
+   
  
    
 
