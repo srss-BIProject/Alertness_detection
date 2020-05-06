@@ -18,7 +18,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
       <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/shape.PNG">
    
    
-  - When Either no face is detected or the calculated aspect ratio is less than or equal to the threshold value, Nothing would be       displayed.
+  - When Either no face is detected or the calculated aspect ratio is less than or equal to the threshold value, Alert message would be       displayed.
   
   - When Mouth Aspect Ratio is greater than Mouth Threshold Value, Notification for ‘Yawning’ would be displayed.
   
