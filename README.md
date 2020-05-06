@@ -60,9 +60,24 @@ Random Forest is a supervised learning algorithm.It creates a forest and makes i
 Support  vector  machines  are  supervised  learning  models  with  associated  learning  algo-rithms that analyze data used for classification and regression analysis.  SVM or SupportVector Machine is a linear model for classification and regression problems.  It can solvelinear and non-linear problems and work well for many practical problems.  The idea ofSVM is simple:  The algorithm creates a line or a hyperplane which separates the datainto classes.  Degree of confidence measure the probability of misclassification. 
 
 <img src="https://github.com/srss-BIProject/Alertness_detection/blob/master/images/linear_svm.png">
+
+
+**Comparison of Implemented Algorithms**
+
+The following table shows maximum accuracy values corresponding to each algorithm-
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
    
    ## **DATASET**
-   We have taken the human face images from the various source available on the internet to extract the features.  We have calculated the eye-aspect-ratio and mouth-aspect-ratio ofthose images by using the formula presented in the research paper and code in python([AspectRatio and label Prediction](src/landmarks_detection.py)).  The dataset contains 248 facial images and their aspect ratios with the labels.
+   We have taken the human face images from the various source available on the internet to extract the features.  We have calculated the eye-aspect-ratio and mouth-aspect-ratio ofthose images by using the formula presented in the research paper and code in python([AspectRatio and label Prediction](src/landmarks_detection.py)).
+   
+   Output of above python code is displayed in the form of video made by us-**[VideoShowingEAR,MAR&Label](https://youtu.be/v0tKtYA7Bi4)**
+   
+   The dataset contains 248 facial images and their aspect ratios with the labels.
    
    Link of dataset-
    [Facial Landmarks](https://github.com/srss-BIProject/Alertness_detection/blob/master/facial_image_ar.csv)
